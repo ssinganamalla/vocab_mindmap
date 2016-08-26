@@ -1,0 +1,307 @@
+{
+  "title": "Character",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "71": {
+      "title": "disobedient",
+      "id": 14
+    },
+    "81": {
+      "title": "driven",
+      "id": 15
+    },
+    "91": {
+      "title": "driven",
+      "id": 17
+    },
+    "96": {
+      "title": "determined",
+      "id": 11,
+      "attr": {
+        "position": [
+          309,
+          -339,
+          6
+        ],
+        "style": {}
+      }
+    },
+    "106": {
+      "title": "dishonest",
+      "id": 12,
+      "attr": {
+        "position": [
+          262,
+          -269,
+          7
+        ],
+        "style": {}
+      }
+    },
+    "111": {
+      "title": "enthusiastic",
+      "id": 19,
+      "attr": {
+        "position": [
+          216,
+          -201,
+          9
+        ],
+        "style": {}
+      }
+    },
+    "121": {
+      "title": "evil",
+      "id": 20,
+      "attr": {
+        "position": [
+          258,
+          -132,
+          10
+        ],
+        "style": {}
+      }
+    },
+    "131": {
+      "title": "forgiving",
+      "id": 22,
+      "attr": {
+        "position": [
+          215,
+          -82,
+          11
+        ],
+        "style": {}
+      }
+    },
+    "141": {
+      "title": "friendly",
+      "id": 23,
+      "attr": {
+        "position": [
+          258,
+          -11,
+          12
+        ],
+        "style": {}
+      }
+    },
+    "151": {
+      "title": "fun",
+      "id": 24,
+      "attr": {
+        "position": [
+          236,
+          61,
+          13
+        ],
+        "style": {}
+      }
+    },
+    "161": {
+      "title": "funny",
+      "id": 26,
+      "attr": {
+        "position": [
+          256,
+          108,
+          14
+        ],
+        "style": {}
+      }
+    },
+    "171": {
+      "title": "generous",
+      "id": 27,
+      "attr": {
+        "position": [
+          267,
+          157,
+          15
+        ],
+        "style": {}
+      }
+    },
+    "181": {
+      "title": "hardworking",
+      "id": 28,
+      "attr": {
+        "position": [
+          257,
+          210,
+          16
+        ],
+        "style": {}
+      }
+    },
+    "251": {
+      "title": "lazy",
+      "id": 38,
+      "attr": {
+        "position": [
+          256,
+          279,
+          25
+        ],
+        "style": {}
+      }
+    },
+    "261": {
+      "title": "loyal",
+      "id": 40,
+      "attr": {
+        "position": [
+          353,
+          320,
+          24
+        ],
+        "style": {}
+      }
+    },
+    "-10": {
+      "title": "Bossy",
+      "id": 2,
+      "attr": {
+        "position": [
+          516,
+          -481,
+          1
+        ],
+        "style": {}
+      }
+    },
+    "-20": {
+      "title": "Brave",
+      "id": 5,
+      "attr": {
+        "position": [
+          527,
+          -395,
+          2
+        ],
+        "style": {}
+      }
+    },
+    "-30": {
+      "title": "Cowardly",
+      "id": 7,
+      "attr": {
+        "position": [
+          493,
+          -235,
+          3
+        ],
+        "style": {}
+      }
+    },
+    "-40": {
+      "title": "crazy",
+      "id": 8,
+      "attr": {
+        "position": [
+          505,
+          -188,
+          4
+        ],
+        "style": {}
+      }
+    },
+    "-50": {
+      "title": "creative",
+      "id": 9,
+      "attr": {
+        "position": [
+          405,
+          -138,
+          5
+        ],
+        "style": {}
+      }
+    },
+    "93.5": {
+      "title": "energetic",
+      "id": 18,
+      "attr": {
+        "position": [
+          216,
+          -433,
+          8
+        ],
+        "style": {}
+      }
+    },
+    "-60": {
+      "title": "honest",
+      "id": 30,
+      "attr": {
+        "position": [
+          210,
+          195,
+          17
+        ],
+        "style": {}
+      }
+    },
+    "-55": {
+      "title": "hostile",
+      "id": 31,
+      "attr": {
+        "position": [
+          362,
+          81,
+          18
+        ],
+        "style": {}
+      }
+    },
+    "-52.5": {
+      "title": "humble",
+      "id": 33,
+      "attr": {
+        "position": [
+          311,
+          -51,
+          19
+        ],
+        "style": {}
+      }
+    },
+    "-57.5": {
+      "title": "irresponsible",
+      "id": 34,
+      "attr": {
+        "position": [
+          362,
+          164,
+          20
+        ],
+        "style": {}
+      }
+    },
+    "-70": {
+      "title": "jealous",
+      "id": 36,
+      "attr": {
+        "position": [
+          407,
+          253,
+          21
+        ],
+        "style": {}
+      }
+    },
+    "-80": {
+      "title": "kind",
+      "id": 37,
+      "attr": {
+        "position": [
+          402,
+          300,
+          22
+        ],
+        "style": {}
+      }
+    }
+  }
+}
